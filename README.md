@@ -1,1 +1,1 @@
-This is my first repository as a full-stack engineer
+Zeroday is a first alx School projrct that have list of project/tasks *0x00. Vagrant
